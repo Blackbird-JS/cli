@@ -12,7 +12,7 @@
     "bird": "bin/bird.js",
     "bb": "bin/bird.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "vite": "^8.3.0"
   }
 }
