@@ -1,0 +1,18 @@
+{
+  "name": "@blackbirdjs/cli",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "files": [
+    "bin",
+    "src"
+  ],
+  "bin": {
+    "blackbird": "bin/bird.js",
+    "bird": "bin/bird.js",
+    "bb": "bin/bird.js"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
